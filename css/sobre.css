@@ -1,0 +1,61 @@
+/* inicio do css referente a página Sobre-------------------------------------------*/
+
+#homesobre {
+	height: 100hv;
+    width: 100%;
+    background-color: #359830;
+        		}	
+#homesobre h1 {
+color: white;
+padding: 5px;
+margin: 5px;
+}	
+
+#apresentação {
+background-color: #fefefe;
+background-image: url("imagens/fundo-textura.jpg");
+background-size: cover;
+opacity: 1;
+mix-blend-mode: multiply;
+transition: background .3s,border-radius .3s,opacity .3s;
+height: 100hv;
+color: black;
+}
+
+#etica {
+background-color: #005cab;
+background-image: url("imagens/fundo-textura.jpg");
+background-size: cover;
+opacity: 1;
+mix-blend-mode: multiply;
+transition: background .3s,border-radius .3s,opacity .3s;
+height: 50%;
+color: white;
+}
+#etica p {
+color: white;
+}
+
+#creditos {
+background-color: #fefefe;
+background-image: url("imagens/fundo-textura.jpg");
+background-size: cover;
+opacity: 1;
+mix-blend-mode: multiply;
+transition: background .3s,border-radius .3s,opacity .3s;
+height: 100hv;
+color: black;
+}
+#referencia {
+background-color: #005cab;
+background-image: url("imagens/fundo-textura.jpg");
+background-size: cover;
+opacity: 1;
+mix-blend-mode: multiply;
+transition: background .3s,border-radius .3s,opacity .3s;
+height: 50%;
+color: white;
+}
+#referencia p {
+color: white;
+}
